@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Hook-Pracitce/static/css/main.32eba9e0.chunk.css",
-    "main.js": "/Hook-Pracitce/static/js/main.79201b3b.chunk.js",
-    "main.js.map": "/Hook-Pracitce/static/js/main.79201b3b.chunk.js.map",
+    "main.css": "/Hook-Pracitce/static/css/main.c56efcf3.chunk.css",
+    "main.js": "/Hook-Pracitce/static/js/main.516e7ef6.chunk.js",
+    "main.js.map": "/Hook-Pracitce/static/js/main.516e7ef6.chunk.js.map",
     "runtime-main.js": "/Hook-Pracitce/static/js/runtime-main.c7e34dc3.js",
     "runtime-main.js.map": "/Hook-Pracitce/static/js/runtime-main.c7e34dc3.js.map",
     "static/js/2.cd345d6b.chunk.js": "/Hook-Pracitce/static/js/2.cd345d6b.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.dacef0b0.chunk.js": "/Hook-Pracitce/static/js/3.dacef0b0.chunk.js",
     "static/js/3.dacef0b0.chunk.js.map": "/Hook-Pracitce/static/js/3.dacef0b0.chunk.js.map",
     "index.html": "/Hook-Pracitce/index.html",
-    "static/css/main.32eba9e0.chunk.css.map": "/Hook-Pracitce/static/css/main.32eba9e0.chunk.css.map",
+    "static/css/main.c56efcf3.chunk.css.map": "/Hook-Pracitce/static/css/main.c56efcf3.chunk.css.map",
     "static/js/2.cd345d6b.chunk.js.LICENSE.txt": "/Hook-Pracitce/static/js/2.cd345d6b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.c7e34dc3.js",
     "static/js/2.cd345d6b.chunk.js",
-    "static/css/main.32eba9e0.chunk.css",
-    "static/js/main.79201b3b.chunk.js"
+    "static/css/main.c56efcf3.chunk.css",
+    "static/js/main.516e7ef6.chunk.js"
   ]
 }
